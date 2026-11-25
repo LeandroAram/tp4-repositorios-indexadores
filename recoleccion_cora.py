@@ -24,7 +24,7 @@ NS = {
     "dc": "http://purl.org/dc/elements/1.1/",
 }
 for prefijo, uri in NS.items():
-    ET.register_namespace("" if prefijo == "oai" else prefijo, uri)
+    ET.register_namespace(prefijo, uri)
 ET.register_namespace("xsi", "http://www.w3.org/2001/XMLSchema-instance")
 
 
