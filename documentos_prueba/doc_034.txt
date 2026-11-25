@@ -1,0 +1,8 @@
+Replication data for "Processing speed mediates the relationship between DDR1 and psychosocial functioning in euthymic patients with bipolar disorder presenting psychotic symptoms".
+
+Autores: Aranda Castel, Selena
+Palabras clave: Medicine, Health and Life Sciences | Human genetics
+Fecha: 2024-01-30
+Identificador: doi:10.34810/DATA1068
+
+Supplementary Material of the article: Processing speed mediates the relationship between DDR1 and psychosocial functioning in euthymic patients with bipolar disorder presenting psychotic symptoms, which is aimed to finding genetic variants associated to the diagnosis, neurocognitive performance, psychosocial functioning and white matter microstructure of patients with bipolar disorder. Particularly: Figre S1. Effect of rs1264323AA-rs2267641AC/CC on psychosocial functioning in patients with BD with psychotic symptoms.  Table S1. SNP association tests in the whole patient sample and in the subsamples of bipolar disorder with and without psychotic symptoms. Table S2. SNP-SNP association tests in the whole patient sample and in the subsamples of bipolar disorder with and without psychotic symptoms. Table S3. Linear regression models of the neurocognition assessment in all participants. Table S4. Linear regression models of the neurocognition assessment healthy controls. Table S5. Linear regression models of the neurocognition assessment in patients with BD. Table S6. Linear regression models of the neurocognition assessment in patients with BD withpsychotic symptoms.

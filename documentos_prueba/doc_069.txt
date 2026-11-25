@@ -1,0 +1,13 @@
+VR360 Consumption DataSet - ImAc Open Pilot
+
+Autores: Montagud, Mario | Meyerson, Einar | Fraile, Isaac | Fernández, Sergi
+Palabras clave: Computer and Information Science | Engineering | Multimedia systems | Streaming technology (Telecommunications) | Quality of service (Computer networks)
+Fecha: 2024-02-28
+Identificador: doi:10.34810/DATA1144
+
+This dataset has been created under the framework of the EU H2020 ImAc project
+(https://www.imac-project.eu/). It contains traces from Quality of Service (QoS) and Quality of Experience (QoE) related metrics when watching 360º videos augmented with access services (mainly subtitles, and sign language), by using different branches of the ImAc player (http://imac.i2cat.net/player/) in an open environment.
+
+The dataset is comprised of two folders related to two pilots launched in the ImAc project, led by a German and a Spanish broadcaster. In total, it contains traces from more than 800 video watching sessions.
+
+[More details in the README file.]

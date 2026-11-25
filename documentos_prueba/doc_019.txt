@@ -1,0 +1,8 @@
+Supplemental Data of: Gender-differences in conservatoire music practice maladjustment. Can contextual professional goals and context-derived psychological needs satisfaction account for amotivation variations?
+
+Autores: Valenzuela, Rafael | Codina, Núria (Codina Mata) | Pestana, José Vicente
+Palabras clave: Medicine, Health and Life Sciences | Social Sciences | music
+Fecha: 2021-07-05
+Identificador: doi:10.34810/DATA105
+
+Raw data from a study about Gender-differences in music practice, which takes into account contextual goals, psychological needs satisfaction and amotivation. The present study is one of the first to assess gender-differences in amotivation in conservatoire instrument practice, linking these with musicians’ psychological need satisfaction, showing that women musicians may be perceiving the need for autonomy more closely linked with amotivation than their men counterparts.

@@ -1,0 +1,8 @@
+Replication materials and online appendix of the paper "Measurement quality of 67 common social sciences questions across countries and languages based on 28 Multitrait-Multimethod experiments implemented in the European Social Survey"
+
+Autores: Poses, Carlos | Revilla, Melanie | Asensio, Marc | Schwarz, Hannan | Weber, Wiebke
+Palabras clave: Social Sciences | European Social Survey (ESS) | Measurement quality | Reliability | Validity | Multitrait-Multimethod (MTMM) experiments | Social sciences | Data quality | Questionnaire design
+Fecha: 2021-12-15
+Identificador: doi:10.34810/DATA122
+
+Replication materials for the paper "Measurement quality of 67 common social sciences questions across countries and languages based on 28 Multitrait-Multimethod experiments implemented in the European Social Survey". It includes a dataset of disaggregated estimates across countries and languages of the measurement quality, reliability and validity estimates of the questions of the ESS Main questionnaire that were part of MTMM experiments in R1-R7 used in the paper. Additionally, it includes a codebook describing each variable within the dataset, and the R code needed to replicate the tables of the paper.

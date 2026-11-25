@@ -1,0 +1,10 @@
+ParlaMintCAT corpus
+
+Autores: Pisani, Marilina | Zevallos Salazar, Rodolfo | Bel, Núria
+Palabras clave: Arts and Humanities | Social Sciences | Parliamentary corpora | ParlaMint | Linguistic annotation | Metadata | Catalan
+Fecha: 2024-02-26
+Identificador: doi:10.34810/DATA1137
+
+Parliamentary speeches are considered to be of interest for different
+research areas because they are publicly available transcriptions, produced under controlled and regulated procedures that add totally reliable sociodemographic data like gender, age, and other details of the speakers. Moreover, speeches are rich in topics and domains, and they are actually public domain data, not subject to copyright restrictions. The ParlaMint project: Towards Comparable Parliamentary Corpora is developing a comparable and uniformly annotated multilingual corpus
+with the data from 33 different parliaments in Europe. This paper describes the details of building the ParlaMintCAT corpus, for which the transcriptions of the Catalan Parliament General Assembly sessions from 2015 to 2022 have been compiled, processed and annotated.
