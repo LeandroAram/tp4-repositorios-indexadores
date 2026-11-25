@@ -69,23 +69,26 @@ def main():
     filas = [f for f in filas if len(f["resumen"]) >= LARGO_MINIMO_RESUMEN][:100]
     assert len(filas) == 100, f"Solo hay {len(filas)} registros con resumen largo"
 
-    shutil.rmtree(CARPETA, ignore_errors=True)
-    CARPETA.mkdir()
-    temporal = Path(tempfile.mkdtemp())
-    for numero, fila in enumerate(filas, start=1):
-        formato = FORMATOS[(numero - 1) % len(FORMATOS)]
-        nombre = f"doc_{numero:03d}"
-        destino = CARPETA / f"{nombre}.{formato}"
-        if formato == "txt":
-            destino.write_text(texto_plano(fila), encoding="utf-8")
-        elif formato == "html":
-            crear_html(fila, destino)
-        elif formato == "docx":
-            crear_docx(fila, destino)
-        else:
-            base = temporal / f"{nombre}.docx"
-            crear_docx(fila, base)
-            convertir_con_libreoffice(base, formato, CARPETA)
+    with tempfile.TemporaryDirectory() as temporal:
+        temporal = Path(temporal)
+        nueva = temporal / "documentos"
+        nueva.mkdir()
+        for numero, fila in enumerate(filas, start=1):
+            formato = FORMATOS[(numero - 1) % len(FORMATOS)]
+            nombre = f"doc_{numero:03d}"
+            destino = nueva / f"{nombre}.{formato}"
+            if formato == "txt":
+                destino.write_text(texto_plano(fila), encoding="utf-8")
+            elif formato == "html":
+                crear_html(fila, destino)
+            elif formato == "docx":
+                crear_docx(fila, destino)
+            else:
+                base = temporal / f"{nombre}.docx"
+                crear_docx(fila, base)
+                convertir_con_libreoffice(base, formato, nueva)
+        shutil.rmtree(CARPETA, ignore_errors=True)
+        shutil.move(str(nueva), str(CARPETA))
     print(f"Generados {len(list(CARPETA.iterdir()))} documentos en {CARPETA}/")
 
 
