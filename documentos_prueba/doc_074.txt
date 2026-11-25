@@ -1,0 +1,8 @@
+Aerial and satellite images and labels to train deep learning models to detect urban canopies
+
+Autores: Velasquez-Camacho, Luisa | Fonseca, Bruno Augusto | Etxegarai, Maddi | Miguel Magaña, Sergio de
+Palabras clave: Earth and Environmental Sciences | Tree characterization | canopy | street trees
+Fecha: 2024-03-21
+Identificador: doi:10.34810/DATA1151
+
+Explore a comprehensive dataset featuring over 14000 labelled urban tree canopies in images from across the globe, specifically curated for advancing tree detection methodologies. The dataset comprises image tiles in both .tif, .jpg and .png formats, following the Pascal VOC and YOLO standards. Additionally, we included a .csv summary file with all annotations.  To enhance usability, labels are provided in three formats: .xml, and .txt. The RGB tiles, utilized in this dataset, are openly accessible.

@@ -1,0 +1,9 @@
+Spanish sample responses to the Statistical Anxiety Scale psychological test
+
+Autores: lorenzo-seva, Urbano | Vigil, Andreu | Ferrando, Pere J.
+Palabras clave: Social Sciences | Psychometrics | Anxiety | Statistics
+Fecha: 2026-04-23
+Identificador: doi:10.34810/DATA1075
+
+Raw data for participants that answered the Statistical Anxiety Test. A sample of 1112 undergraduate Spanish students (81% women) of a Grade in Psychology, aged 18-60 years (M = 20.5, SD = 4.9), completed the computer version of the test. Raw responses and the time to response each item were recorded. The test included a scale to assess social desirability In addition, the examination mark in a test about statistic was recorded for a set or participants (N=430). Total scores were computed as an addition to item responses. ORION factor score estimates in the scales of the test were obtained using factor analysis (ULS extraction, Robust Promin, and ORION scores estimates). The software used to compute the factor analysis was FACTOR. 
+The information provided is: sample descriptives, participants' responses, item response times, and participants' scores in test scales.

@@ -1,0 +1,8 @@
+Replication Data for: Positive impact of a faecal-based screening programme on colorectal cancer mortality risk
+
+Autores: Ibáñez Sanz, Gemma | Milà, Núria | Vidal, Carmen | Rocamora, Judith | Moreno Aguado, Víctor | Sanz Pamplona, Rebeca | García Martínez, Montserrat
+Palabras clave: Medicine, Health and Life Sciences | population-based screening | colorectal cancer | mortality
+Fecha: 2021-06-17
+Identificador: doi:10.34810/DATA119
+
+Retrospective cohort that included invitees aged 50-69 years of a CRC screening program (target population of 85,000 people) in Catalonia (Spain) from 2000-2015 with mortality follow-up until 2020. Screen-detected CRC was a cancer diagnosed after a positive faecal occult blood test (guaiac or immunochemical); interval cancer was a cancer diagnosed after a negative test result and before the next invitation to the program (≤24 months); non-uptake cancer was a cancer in subjects who declined screening. A total of 624 people were diagnosed with CRC (n = 265 screen-detected, n = 103 interval cancers, n = 256 non-uptake). In the multivariate analysis, we observed a 74% increase in mortality rate in the group with interval CRC compared to screen-detected CRC adjusted for age, sex, location and stage (HR: 1.74%, 95% CI:1.08-2.82, P = 0.02). These differences were found even when we restricted for advanced-cancers participants. In the stratified analysis for type of faecal occult blood test, a lower mortality rate was only observed among FIT screen-detected CRCs.

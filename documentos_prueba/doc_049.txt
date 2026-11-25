@@ -1,0 +1,10 @@
+Replication Data for:  Gestión de la diversidad cultural con niños/as y familias vulnerables. La voz de las familias como eje de innovación en la práctica socioeducativa
+
+Autores: Palasí Luna, Eva | Morata García, Txus | Giralt Rovira, Pere-Joan | Rocha Scarpetta, Joan-Andreu
+Palabras clave: Social Sciences | Centro Socioeducativo | Cohesión Social | Diversidad cultural | Infancia vulnerable | Migrantes
+Fecha: 2024-02-08
+Identificador: doi:10.34810/DATA1098
+
+Los datos que se presentan muestran evidencias entorno a cómo el trabajo socioeducativo que se lleva a cabo en los centros mejora la cohesión social en los territorios, promoviendo el cumplimiento de los derechos de infancia, bajo criterios de justicia social y también aporta orientaciones teórico-metodológicas para el incremento de la cohesión social de los territorios. El estudio se ha realizado mediante un cuestionario administrado a 42 padres y madres de 5 Centros Socioeducativos (CSE). El análisis de los resultados obtenidos en los cuestionarios administrados a las familias ha consistido en la comparación de las puntuaciones medias de las opiniones acerca de cómo los CSE promueven los diversos elementos (subdimensiones) que configuran la categoría cohesión social, tanto por parte de los niños/as que participan en los centros como por parte de sus familias. Los datos recopilados han permitido determinar si el paso por los centros ha tenido efectos en los diferentes elementos configuradores de la cohesión social y concretar en cuál de los dos grupos se ha dado dicho efecto.
+
+Los datos que se pueden consultar en el presente Dataset son: [1] Guión cuestionario administrado a familias; [2] Matriz resultados cuantitativos

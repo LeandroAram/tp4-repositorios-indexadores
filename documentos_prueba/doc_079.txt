@@ -1,0 +1,14 @@
+Linear Codes Over the Integer Residue Ring Z/p^s
+
+Autores: Fernández Córdoba, Cristina | Torres-Martín, Adrián | Villanueva, Mercè
+Palabras clave: Computer and Information Science | Engineering | Magma | Software | Zp^s-additive codes | Zp^s-linear codes | Gray map
+Fecha: 2024-03-08
+Identificador: doi:10.34810/DATA1160
+
+"Z/p^s-Additive Codes" is a package that generalizes the functionality for linear codes over Z/4 in Magma (see [1]) to linear codes over Z/p^s with p prime. Specifically, there are functions to construct some families of these codes, functions related to generalized Gray maps, information sets, the process of encoding, and decoding using permutation decoding, among others.
+
+The "Z/p^s-Additive Codes" package consists of five files written in the Magma language. Please, send your bug reports to Combinatorics, Coding and Security Group (CCSG)  at support.ccsg@uab.cat or if it is a Magma problem to magma-trouble (magma@maths.usyd.edu.au). 
+
+The "Z/p^s-Additive Codes" package has been written by several assistant developers (supervised by Mercè Villanueva) as a support for some research projects on Z/p^s-linear codes developed by the Combinatorics, Coding and Security Group (CCSG) within the Department of Information and Communications Engineering (dEIC) at the Autonomous University of Barcelona (UAB).
+
+This version of the package has been developped in Magma version 2.27-5.

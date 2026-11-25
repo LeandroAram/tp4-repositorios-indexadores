@@ -1,0 +1,10 @@
+Dataset sobre Datos extraídos de una encuesta a Jóvenes Ganaderos de Reciente Incorporación en Catalunya
+
+Autores: Góngora Pérez, Rubén Darío | Milán Sendra, María José | López i Gelats, Feliu
+Palabras clave: Earth and Environmental Sciences | Relevo generacional | Estructura granja | Jóvenes ganaderos | Generational relief | Young ranchers | Farm structure
+Fecha: 2016-01-10
+Identificador: doi:10.34810/DATA1057
+
+Datos de una encuesta que se realizó a 82 jóvenes ganaderos. La encuesta se realizó en 2016. Se muestran los datos de base territorial y tenencia de la tierra, tipo de ganado, tipo de trabajo y comercialización y diversificación del ingreso. Así como la formación y educación recibida por el joven, las ayudas y subvenciones obtenidas, su acceso al crédito, las innovaciones realizadas o en proceso, los problemas y/o barreras a los que se enfrenta el joven agricultor y, sus perspectivas de futuro.
+
+Data from a survey carried out on 82 young ranchers. The survey was carried out in 2016. Data on territorial base and land ownership, type of livestock, type of work and marketing and income diversification are shown. As well as the training and education received by the young person, the aid and subsidies obtained, their access to credit, the innovations carried out or in process, the problems and/or barriers faced by the young farmer and their future prospects.

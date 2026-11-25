@@ -1,0 +1,8 @@
+Replication Data for: Sex differences in neural projections of fear memory processing in mice and humans
+
+Autores: Florido, Antonio | Velasco, Eric R. | Romero, Leire R. | Acharya, Neha | Marin Blasco, Ignacio J. | Fabregat, Jaime | Perez-Caballero, Laura | Rivero, Guadalupe | Olabarrieta, Estíbaliz | Nuñez-del-Moral, Amaia | González-Parra, Jose A. | Porta-Casteràs, Daniel | Cano, Marta | Steward, Trevor | Antony, Monica S. | Cardoner, Narcís | Torrubia, Rafael | Jackson, Alexander C. | Fullana, Miquel A. | Andero, Raül
+Palabras clave: Medicine, Health and Life Sciences | Fear | Sex differences | Translational | Tac2
+Fecha: 2023-03-14
+Identificador: doi:10.34810/DATA1172
+
+These files contain the raw data corresponding to a different set of studies aimed at exploring whether functional neuronal connectivity between two brain areas is necessary in one sex but not the other. Experiments include: chemogenetic silencing of centromedial (CeM)-Tac2 fibers in the lateral posterior BNST (BNSTpl) and fear memory consolidation in male and female mice, optogenetic excitation of CeM-Tac2 fibers in the BNSTpl and inhibitory postsynaptic currents in male and female mice, in vivo calcium imaging in the BNSTpl, study in humans of the single-nucleotide polymorphism (SNP) in the Tac2 receptor (rs2765) (TAC3R) and associated decreased CeM-BNST connectivity in a fear task, and impaired fear memory consolidation and increased the expression of the TAC3R mRNA in AA-carrier men but not in women. These data show sex differences in critical neuronal circuits underlying fear memory formation may be relevant to human neuropsychiatric disorders with fear memory alterations such as posttraumatic stress disorder.

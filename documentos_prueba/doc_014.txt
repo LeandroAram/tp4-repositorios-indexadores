@@ -1,0 +1,18 @@
+Supplemental Data of: Mitochondrial toxicogenomics for antiretroviral management: HIV Post-exposure prophylaxis in uninfected patients
+
+Autores: Garrabou Tornos, Glòria | Martínez, Esteban
+Palabras clave: Medicine, Health and Life Sciences | antiretroviral
+Fecha: 2021-07-12
+Identificador: doi:10.34810/DATA104
+
+We performed a multicentric observational study in HIV-1-exposed and uninfected patients to evaluate mitochondrial and metabolic disturbances before and after a 28-day PEP treatment comparing two different regimens: PI plus AZT + 3TC (n = 9) or PI plus TDF + FTC (n = 14).
+
+Patients were recruited in two hospitals: the Hospital Clinic of Barcelona (Barcelona, Spain) and the Hospital of Granollers (Granollers, Spain).
+
+All participants initiated their PEP regimen within 48 h after a non-occupational sexual exposure to HIV and provided informed consent to be enrolled in the study, which was approved by the Ethical Committee of our institutions.
+
+The inclusion criteria were adults over 18 years old with no clinical evidence of primary mitochondrial disease, or concomitant treatment with potential toxic drugs for mitochondria (antipsychotics, statins or antibiotics, among others) and the full completion of the 28-day treatment (per-protocol analysis).
+
+Although the initial sample of the study included a total of 30 participants, 7 of them were lost or excluded from the study. These excluded participants requiered changes of their PEP regimen due to the manifestation of intolerability recorded during the clinical interview.
+
+Epidemiological, virological, and therapeutic characteristics of the HIV-exposed participants were equivalent in both PEP arms. There were no statistically significant differences between both groups with respect to gender and age distribution. These treatment groups were composed by men exclusively, with mean age ranging from 33 to 34 years. The duration of treatment was consistent in both groups, as all patients received full-length PEP regimen and, once concluded, all participants were negative for HIV antibody testing.

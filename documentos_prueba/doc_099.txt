@@ -1,0 +1,12 @@
+Proposing genotoxicity related quantitative indicators by analyzing TiO2 surface computed on DFT framework
+
+Autores: Çetin, Yarkın Aybars | Escorihuela, Laura | Martorell Masip, Benjamí | Calatayud, Monica | Serratosa, Francesc
+Palabras clave: Chemistry | Other | molecular dynamics | Poster | Computational Chemistry | Titania
+Fecha: 2022-05-25
+Identificador: doi:10.34810/DATA1235
+
+This dataset houses a research poster and its poster abstract.
+
+The set of documents was first presented at the doctoral days organized by the Doctoral Committee of the Nanoscience, Materials and Chemical Engineering program at Escuela Técnica Superior de Ingeniería Química (ETSEQ) of Universitat Rovira i Virgili (URV) on 25 May 2022 (17th Edition). 
+
+Poster Title: "Proposing genotoxicity related quantitative indicators by analyzing TiO2 surface computed on DFT framework".
